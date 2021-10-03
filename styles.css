@@ -1,0 +1,67 @@
+header {
+    background-color: #63B3ED;
+}
+
+#text {
+    color: #FFFFFF;
+}
+#me{
+    border-radius: 50%;
+    height: 140px;
+    width: 220px;
+}
+
+img{
+    height: 140px;
+    width: 220px;
+}
+
+.container {
+    display: grid-container;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 150px 150px;
+    grid-gap: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+h2 {
+    font-size: 32px;
+    color: #48BB78;   
+  }
+  
+h3 {
+    color: #48BB78;   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+#about {
+    color: #000000;
+}
+
+#info {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #E2E8F0;
+}
+
+p{
+     font-size: 18px;
+     color: #2d3748;
+     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
+  }
+
+#sub {
+    color: #718096;
+}
+
+li {
+    color: #4299E1;
+}
+  
+footer {
+    background-color: #2C5282;
+    color: #FFFFFF;
+}
